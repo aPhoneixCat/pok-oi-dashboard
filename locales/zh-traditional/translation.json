@@ -1,0 +1,47 @@
+{
+    "registration": {
+        "info": {
+            "title": "西九文化區自動駕駛巴士登記",
+            "subTitle": "預訂今日的自動駕駛巴士行程",
+            "stationSelection": {
+                "label": "請選擇上車站點：",
+                "description": {
+                    "m_plus": "M+",
+                    "hkpm": "香港故宮文化博物館",
+                    "wkcd_pso": "西九文化區管理局項目辦公室",
+                    "west_gate": "西九文化區西閘"
+                }
+            },
+            "timeslotSelection": {
+                "label": "請選擇上車時間段："
+            },
+            "termsCheck": {
+                "prefix": "我同意",
+                "postfix": "條款及細則"
+            },
+            "outOfService": {
+                "title": "自動駕駛巴士暫停服務",
+                "subTitle": "自動駕駛巴士目前僅支持工作日運營"
+            },
+            "submit": "提交"
+        },
+        "alert": {
+            "onboard_station": "請選擇預計上車站點",
+            "timeslot": "請選擇預計上車時間",
+            "terms": "請接受條款及細則",
+            "system_error": "系統錯誤，請重試",
+            "too_many_request": "请求过多，请稍后再试",
+            "no_quotation": "今日已達最大限額"
+        }
+    },
+    "result": {
+        "title": "自動駕駛巴士登記成功",
+        "title_without_token": "請先完成登記手續",
+        "qr_code": {
+            "note": "請截圖以便稍後查閱",
+            "registration_info_title": "登記資料:",
+            "onboard_station": "上車站點:",
+            "onboard_time": "上車時間:"
+        }
+    }
+}

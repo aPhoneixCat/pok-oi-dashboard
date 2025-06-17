@@ -1,0 +1,47 @@
+{
+    "registration": {
+        "info": {
+            "title": "WKCD AI Bus Registration",
+            "subTitle": "Book AI Bus Journey of Today",
+            "stationSelection": {
+                "label": "Please choose on-board station:",
+                "description": {
+                    "m_plus": "M+",
+                    "hkpm": "Hong Kong Palace Museum",
+                    "wkcd_pso": "WKCDA Project Site Office",
+                    "west_gate": "West Gate, WKCD"
+                }
+            },
+            "timeslotSelection": {
+                "label": "Please choose on-board time slot:"
+            },
+            "termsCheck": {
+                "prefix": "I agree to the",
+                "postfix": "Terms and Conditions"
+            },
+            "outOfService": {
+                "title": "AI Bus is out of service",
+                "subTitle": "AI Bus currently only support workday operation"
+            },
+            "submit": "Submit"
+        },
+        "alert": {
+            "onboard_station": "Please choose estimated on-board station",
+            "timeslot": "Please choose estimated on-board time",
+            "terms": "Please accept the terms and condition",
+            "system_error": "System Error, Please try again",
+            "too_many_request": "Too many requests, please try again later",
+            "no_quotation": "No quotation today"
+        }
+    },
+    "result": {
+        "title": "AI Bus Registration Successfully",
+        "title_without_token": "Kindly complete the registration first",
+        "qr_code": {
+            "note": "Take screenshot for later checking",
+            "registration_info_title": "Registration Information:",
+            "onboard_station": "Onboard station:",
+            "onboard_time": "Onboard time:"
+        }
+    }
+}
